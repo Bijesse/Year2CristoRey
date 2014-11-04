@@ -43,4 +43,6 @@ Styling		|	Boolean		| Version Control
 Wireframing	| 	Loops		|
 			|	Functions	|
 		
-
+##Standards
+####Common Core
+#####ScriptEd Standards

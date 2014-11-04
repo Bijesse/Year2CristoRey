@@ -1,34 +1,20 @@
 #Project 2 - Rock, Paper, Scissors
 ![Image](./rps.jpg?raw=true)
 
-##Scope
+##Synopsis
 
 This project will introduce the student to simple one page javascript app to play Rock-Paper-Scissors. They will be introduced to the idea of libraries and the use the use the JQuery library to manage events.  The students should have previous experience with events and event handlers.  Furthermore they will be introduced to Random numbers and how they are simulated in computers.  After they have completed the simple game, they can be asked to complete a more complex variant, [Rock-Paper-Scissors-Lizard-Spock](./rpslp.jpg).
 
-#Before Class
+##Starter Code
 
-The teacher should become familar with the following topics.
-* Javascript Events
-* The JQuery Documentation and how to nagivate it, especially the documentation about events
-* Javascript Libraries and how they should be loaded into a page
-* Random and PseudoRandom numbers, ie the what makes a number "random"
+See [here]() for code and [here]() to view.
 
+### Solution code
 
-##Vocabulary
-* Library
-* JQuery
-* Random
-* PseudoRandom
+See [here]() for code (private).
 
-##References
-
-* [Javascript Library](http://en.wikipedia.org/wiki/JavaScript_library)
-* [Script Tag](http://javascript.crockford.com/script.html)
-* [How Jquery Works](http://learn.jquery.com/about-jquery/how-jquery-works/)
-* [JQuery Events](http://api.jquery.com/category/events/)
-* [PseudoRandom](http://en.wikipedia.org/wiki/Pseudorandomness)
-* [Math.random](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
-* [Rock-Paper-Scissors-Lizard-Spock](http://en.wikipedia.org/wiki/Rock-paper-scissors-lizard-Spock)
+#Daily Lessons
+1. [What's a RockpaperScissors?](lessons/1-intro)
 
 
 ##Industry Skills
@@ -37,9 +23,6 @@ This project improves the student's industry skills in the following way. For a 
 **Technical Vocabulary:**  
 
 While completing this project the student will learn about how to simulate random numbers in javascript. She will also learn to apply the JQuery library to bind user actions to behavior in an application. She will also have the opportunity to modify the initial app to add features as new requirements are revealed.
-
-**Paired Programming:**   
-...
 
 **Version Control:**   
 
@@ -84,6 +67,10 @@ Wireframing	| 	Loops		|
 			|	Arrays		|
 			|	Events		|
 			|	Functions	| 
+
+##Standards
+####Common Core
+#####ScriptEd Standards
 
 
 #During Class
