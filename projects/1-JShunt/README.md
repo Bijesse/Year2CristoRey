@@ -1,26 +1,11 @@
 #Project 1 - Scavenger Hunt
 ![Image](http://i.imgur.com/N7dzgjo.png)
-##Scope
+##Synopsis
 This main goal of this project to re-familiarize the students with the skills learned in year 1. The structure of the project is to have many short (<10 lines) programs that all have a point value determined by difficulty. There are many programs to choose from but the length of this project should be made by the teacher's discretion. **The project should end when the teacher feels that all students in the class are ready to move on to project 2.** 
 
+#Daily Lessons
+1. [Re-Introduction of Students](lessons/1-intro)
 
-
-#Before Class
-*The teacher should familiarize themselves with the programs in the [Clues Worksheet](clues/README.md). This will help the teacher prepare for any questions that may arise.
-*Have a system for checking off every program a student completes. It is important to keep track of which program each student has completed. This way they cannot submit a program twice. 
-* Set up a scoreboard --  either digital or written.
-*Printing a copy of the [Clues Worksheet](clues/README.md) for each student is recommended. 
-
-##Vocabulary
-* String
-* Variable
-* Conditional
-* Loop
-
-##References
-* [Clues Worksheet](clues/README.md)
-* <http://jsbin.com/>
-* <https://github.com/>
  
 
 ##Industry Skills
