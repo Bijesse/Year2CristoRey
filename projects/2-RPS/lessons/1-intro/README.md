@@ -30,7 +30,7 @@ The teacher should become familar with the following topics.
 
 ### Daily Objective
 
-Students will be able to demonstrate the ability to use computing thought processes to complete simple tasks by writing specific instructions a robot could follow.
+Students will be able to
 
 ### Key points
 
@@ -46,34 +46,45 @@ Students will be able to demonstrate the ability to use computing thought proces
 ### Do-now
 
 1. Attendance: Teacher takes student attendance
-2. Hand each student a syllabus as they walk in.
-3. Students are asked the following question: How much do you remember from last year?
+
+2. As the students walk into class they are asked to write out the rules for Rock Paper Scissors.
+If they don't know the game, they should be given a link to the Wikipedia Page.
+
+They should draw a 3 column chart like so and fill in the winner:
+
+| Player1  |  Player2 |  Winner |
+|----------|----------|---------|
+| Rock     | Rock     |         |
+| Rock     | Paper    |         |
+| Rock     | Scissors |         |
+| Paper    | Rock     |         |
+| Paper    | Paper    |         |
+| Paper    | Scissors |         |
+| Scissors | Rock     |         |
+| Scissors | Paper    |         |
+| Scissors | Scissors |         |
 
 
 
 ## Opening
 
-“Welcome back to ScriptEd! I am **_________** and I work at ** _________** as a _______.” Introduce yourself to the students. Tell them a little about your background -- students love to hear about you! ”Let’s everyone please read over the course syllabus.” Allow student volunteers to read the syllabus aloud. Emphasize the following main points:
-
-* Classes will be held twice a week.
-* Students will learn the fundamentals of HTML, CSS, and Javascript
-* The point of the club is to prepare students for internships with technology firms over the summer.
-* Feel free to email Tom (tom@scripted.org) for any questions especially when concerning attendance. 
-
+We're going to build an entire game inside a webpage where you play against the computer. 
+Then we're going to change how the computer plays the game so that we can win.
 
 
 ## Introduction of new material (“I Do”)
 
-Go over the Do Now
+In order to create the winners of they game we had to think like programmers
 
 
 ## Guided Practice (“We Do”)
 
-Introduce the clues sheet
+Show starter code and a working model
 
 ## Independent practice ("You do")
 
 Break up into groups of two. Important: explain driver and gps first.
+Download starter code and work with evaluate (e)
 
 ## Closing/ Homework
 
