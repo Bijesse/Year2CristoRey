@@ -7,7 +7,7 @@ This project will introduce the student to simple one page javascript app to pla
 
 ##Starter Code
 
-See [here](starterCode/) for code and [here]() to view.
+See [here](starter_code/) for code and [here]() to view.
 
 ### Solution code
 
