@@ -71,20 +71,21 @@ They should draw a 3 column chart like so and fill in the winner:
 We're going to build an entire game inside a webpage where you play against the computer. 
 Then we're going to change how the computer plays the game so that we can win.
 
+In order to create the winners of they game we had to think like programmers
 
 ## Introduction of new material (“I Do”)
 
-In order to create the winners of they game we had to think like programmers
+Show starter code and a working model
 
 
 ## Guided Practice (“We Do”)
 
-Show starter code and a working model
+Break up into groups of two. Important: explain driver and gps first.
+Download starter code 
 
 ## Independent practice ("You do")
 
-Break up into groups of two. Important: explain driver and gps first.
-Download starter code and work with evaluate (e)
+First piece of code to solve together: Document.ready
 
 ## Closing/ Homework
 

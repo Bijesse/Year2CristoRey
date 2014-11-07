@@ -1,4 +1,4 @@
-#Lesson 1- name
+#Lesson 2- Function getAIselection
 
 ![image]()
 
