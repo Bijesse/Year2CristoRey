@@ -7,7 +7,7 @@ This project will introduce the student to simple one page javascript app to pla
 
 ##Starter Code
 
-See [here](starter_code/) for code and [here](https://rawgit.com/Bijesse/Year2CristoRey/tree/master/projects/2-RPS/starter_code) to view.
+See [here](starter_code/) for code and [here](https://rawgit.com/Bijesse/Year2CristoRey/tree/https://github.com/Bijesse/Year2CristoRey/blob/master/projects/2-RPS/starter_code/index.htmlmaster/projects/2-RPS/starter_code) to view.
 
 ### Solution code
 
