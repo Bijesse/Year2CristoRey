@@ -83,6 +83,8 @@ Show starter code and a working model
 Break up into groups of two. Important: explain driver and gps first.
 Download starter code 
 
+Create links to css and js external sheets
+
 ## Independent practice ("You do")
 
 First piece of code to solve together: Document.ready
