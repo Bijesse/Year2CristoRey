@@ -15,6 +15,10 @@ See [here]() for code (private).
 
 #Daily Lessons
 1. [What's a RockpaperScissors?](lessons/1-intro)
+2. [Artificial Intelligence](lessons/2-getAI)
+3. [Score!](lessons/3-pickWinner)
+4. [Scorekeeper](lessons/4-setScore)
+5. [Styling](lessons/5-styling)
 
 
 ##Industry Skills
