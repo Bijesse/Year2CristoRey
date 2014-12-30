@@ -21,11 +21,11 @@ See [here](starter_code/) for code and [here](https://cdn.rawgit.com/Bijesse/Yea
 See [here]() for code.
 
 #Daily Lessons
-1. [What's a RockpaperScissors?](lessons/1-intro)
-2. [Artificial Intelligence](lessons/2-getAI)
-3. [Score!](lessons/3-pickWinner)
-4. [Scorekeeper](lessons/4-setScore)
-5. [Styling](lessons/5-styling)
+1. [What's API?](lessons/1-whatIsAPI)
+2. [Play Track](lessons/2-playTrack)
+3. [Click Handles](lessons/3-clickHandlers)
+4. [Mood by Click](lessons/4-goClick)
+5. [Random](lessons/5-random)
  
 
 #Before Class
