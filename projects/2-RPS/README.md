@@ -7,15 +7,15 @@ This project will introduce the student to simple one page javascript app to pla
 
 ##Starter Code
 
-See [here](starter_code/) for code and [here](https://cdn.rawgit.com/Bijesse/Year2CristoRey/tree/https://github.com/Bijesse/Year2CristoRey/blob/master/projects/2-RPS/starter_code/index.htmlmaster/projects/2-RPS/starter_code) to view.
+See [here](starter_code/) for code and [here](https://cdn.rawgit.com/Bijesse/Year2CristoRey/master/projects/5-soundMood/starter_code/index.html) to view.
 
 ### Solution code
 
 See [here]() for code.
 
 #Daily Lessons
-1. [What's a RockpaperScissors?](lessons/1-intro)
-2. [Artificial Intelligence](lessons/2-getAI)
+1. [What's an API?](lessons/1-whatIsAPI)
+2. [Artificial Intelligence](lessons/2-playTrack)
 3. [Score!](lessons/3-pickWinner)
 4. [Scorekeeper](lessons/4-setScore)
 5. [Styling](lessons/5-styling)
