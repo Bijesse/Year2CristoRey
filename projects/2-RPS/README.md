@@ -11,7 +11,7 @@ See [here](starter_code/) for code and [here](https://cdn.rawgit.com/Bijesse/Yea
 
 ### Solution code
 
-See [here]() for code (private).
+See [here]() for code.
 
 #Daily Lessons
 1. [What's a RockpaperScissors?](lessons/1-intro)

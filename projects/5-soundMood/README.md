@@ -1,8 +1,32 @@
 #Project 5 - SoundMood
 ![Image](http://)
 
-##Scope
-~~A note to curriculum writers: A one to two paragraph scope of the project. Which concepts are being introduced? Which concepts are being revisited? What will the students gain while completing this assignment? etc..~~ 
+##Synopsis
+
+SoundMood is a project that allows the user to listen to a song based on their mood.    
+
+The provided starter code lacks four functionalities vital to the way in which SoundMood functions. The student must add the following:
+
+* **Search**: Simply type in the mood you are currently in and a song will be generated based on that mood
+* **Hear**: We grab all of our songs directly from Soundcloud, so there are millions of selections.
+* **Explore**: Using Soundmood, you can find hundreds of songs based on unique mood
+* **Quantity &amp; Quality**: Soundmood has a selection of many different emotions/mood, so good luck entering one that doesn't exist.
+
+##Starter Code
+
+See [here](starter_code/) for code and [here](https://cdn.rawgit.com/Bijesse/Year2CristoRey/tree/https://github.com/Bijesse/Year2CristoRey/blob/master/projects/2-RPS/starter_code/index.htmlmaster/projects/2-RPS/starter_code) to view.
+
+### Solution code
+
+See [here]() for code.
+
+#Daily Lessons
+1. [What's a RockpaperScissors?](lessons/1-intro)
+2. [Artificial Intelligence](lessons/2-getAI)
+3. [Score!](lessons/3-pickWinner)
+4. [Scorekeeper](lessons/4-setScore)
+5. [Styling](lessons/5-styling)
+ 
 
 #Before Class
 ~~A note to curriculum writers: How can the teacher best prepare for this lesson? Provide a list of things that must be known/ prepared before walking into the class.~~

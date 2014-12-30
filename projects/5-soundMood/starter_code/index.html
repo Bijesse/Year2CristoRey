@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="images/favicon.ico">
+
+    <title>Soundmood</title>
+
+    <!-- CSS -->
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+    <!-- Bootstrap Jumbotron -->
+    <link rel="stylesheet" href="css/jumbotron-narrow.css">
+
+    <!-- JS -->
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+    <!-- Bootstrap -->
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+    <!-- Soundcloud API -->
+    <script src="//connect.soundcloud.com/sdk.js"></script>
+    <!-- Bootstrap typeahead -->
+    <script src="js/typeahead.js"></script>
+    <!-- Our JS -->
+    <script src="js/script.js"></script>
+
+  </head>
+  <body>
+    <div class="container">
+      <div class="jumbotron">
+        <h1>Soundmood</h1>
+        <p class="lead">Listen to your heart, you can never go wrong.</p>
+        <form>
+          <div class="input-group">
+            <input id="mood" type="text" class="form-control" placeholder="How are you feeling?">
+              <a id="go" class="input-group-addon" href="#" role="button">Go</a>
+          </div>
+        </form>
+
+        <br>
+        <p><a id="random" class="btn btn-lg btn-success" href="#" role="button">Randomize</a></p>
+        <p id="moodstatus"></p>
+        <p id="songtitle"></p>
+      </div>
+
+      <div class="footer">
+        <p>&copy; Soundmood</p>
+      </div>
+    </div>
+  </body>
+</html>
