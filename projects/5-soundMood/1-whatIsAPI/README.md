@@ -77,7 +77,7 @@ Walk through the script.js.... What is going on here what are we missing? **Emph
 
 ### Closing
 
-Today you learned What an API is. Next class we are going to implement the SoundCloud API into 
+Today you learned What an API is. Next class we are going to implement the SoundCloud API into our SoundMood project.
 
 #### Homework
 
